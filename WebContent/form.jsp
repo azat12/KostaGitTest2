@@ -10,5 +10,6 @@
 <h2>BranchForm1</h2>
 ID <input type="text" name="id">
 <input type="submit">
+<a href="form.jsp">branch1 ¿¬°á</a>
 </body>
 </html>
